@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h>  //Windows專用，控制台輸入輸出 
+#include <conio.h>  //Windows專用，控制台的輸入輸出 
 #include <ctype.h> //字元類型標頭檔 
 
 #define PASSWORD 2024
